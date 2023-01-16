@@ -1,0 +1,21 @@
+0 1
+1 paket.pkt
+0
+0 paket.pkt
+15
+-1
+0.431
+0 0.5
+10000 2500000
+vhod.txt
+fonemi0.txt
+1 leleta.txt
+1 kusidulgi.txt
+1 slivane.txt
+1 bezzvuk.slv
+1 nizove.slv
+1 0.862
+0
+2
+ръчно ruchno.txt ruch 0 1
+слово text.txt puch 1 1

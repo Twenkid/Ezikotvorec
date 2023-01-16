@@ -1,0 +1,26 @@
+Говор 1
+Друг 0
+_osnova.txt
+Папка 0
+c:/
+Пресметнати 1
+_smetki1011.dvo
+Думи 5
+dumi.txt
+dumibez.txt
+dumistar.txt
+dumikrat.txt
+dumiime.txt
+Тълковник 5
+tulk.txt
+tulkbez.txt
+tulkstar.txt
+tulkkrat.txt
+tulkime.txt
+Край
+
+
+Говор 0: говорът трябва да се включи от "Глас"
+Говор 1: включено е по подразбиране
+
+
